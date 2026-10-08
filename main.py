@@ -73,5 +73,5 @@ def check_expirations():
       print(f"Lỗi khi đọc mục {item}: {err}")
 
 
-if name == "main":
+if __name__ == "__main__":
     check_expirations()
