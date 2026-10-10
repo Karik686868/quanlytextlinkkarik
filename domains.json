@@ -1,26 +1,378 @@
 [
   {
-    "site": "https://vnbaolut.net/",
+    "site": "vanvn.net",
+    "price": "135$",
+    "anchor": "au88",
+    "link": "https://au88.casino/",
+    "start_date": "2026-9-23",
+    "end_date": "2026-10-23"
+  },
+  {
+    "site": "linkneverdie.net",
+    "price": "90$",
+    "anchor": "au88",
+    "link": "https://au88.casino/",
+    "start_date": "2026-9-23",
+    "end_date": "2026-10-23"
+  },
+  {
+    "site": "metatft.gg",
+    "price": "60$",
+    "anchor": "au88",
+    "link": "https://au88.casino/",
+    "start_date": "2026/9/17",
+    "end_date": "2026/10/17"
+  },
+  {
+    "site": "soicau247tv.tv",
+    "price": "150$",
+    "anchor": "au88",
+    "link": "https://au88.casino/",
+    "start_date": "2026/10/1",
+    "end_date": "2026/10/31"
+  },
+  {
+    "site": "vnbaolut.net",
+    "price": "100$",
+    "anchor": "tg88",
+    "link": "https://tg88i.name/",
+    "start_date": "2026/9/13",
+    "end_date": "2026/10/13"
+  },
+  {
+    "site": "hhkungfu.ee",
+    "price": "140$",
+    "anchor": "tg88",
+    "link": "https://tg88i.name/",
+    "start_date": "2026/9/25",
+    "end_date": "2026/10/25"
+  },
+  {
+    "site": "vanvn.net",
+    "price": "135$",
+    "anchor": "tg88",
+    "link": "https://tg88i.name/",
+    "start_date": "2026/10/9",
+    "end_date": "2026/11/9"
+  },
+   {
+    "site": "vanvn.net",
+    "price": "135$",
+    "anchor": "tg88",
+    "link": "https://tg88i.name/",
+    "start_date": "2026/10/9",
+    "end_date": "2026/11/9"
+  },
+  {
+    "site": "metatft.gg",
+    "price": "60$",
+    "anchor": "tg88",
+    "link": "https://tg88i.name/",
+    "start_date": "2026/10/9",
+    "end_date": "2026/11/9"
+  },
+   {
+    "site": "linkneverdie.net",
+    "price": "90$",
+    "anchor": "kubet",
+    "link": "https://kubetaf.com/",
+    "start_date": "2026/10/6",
+    "end_date": "2026/11/6"
+  },  
+   {
+    "site": "metatft.gg",
+    "price": "60$",
+    "anchor": "kubet",
+    "link": "https://kubetaf.com/",
+    "start_date": "2026/9/17",
+    "end_date": "2026/10/17"
+  },   
+   {
+    "site": "soicau247tv.tv",
+    "price": "150$",
+    "anchor": "kubet",
+    "link": "https://kubetaf.com/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  }, 
+    {
+    "site": "vanvn.net",
+    "price": "135$",
+    "anchor": "kubet",
+    "link": "https://kubetaf.com/",
+    "start_date": "2026/9/21",
+    "end_date": "2026/10/21"
+  },  
+ {
+    "site": "nuoilo.com",
+    "price": "1.350.000",
+    "anchor": "kubet",
+    "link": "https://kubetaf.com/",
+    "start_date": "2026/9/17",
+    "end_date": "2026/10/17"
+  }, 
+  {
+    "site": "xsmb.me",
+    "price": "1.350.000",
+    "anchor": "kubet",
+    "link": "https://kubetaf.com/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  }, 
+  {
+    "site": "vnbaolut.net",
+    "price": "100$",
+    "anchor": "123b",
+    "link": "https://123bvnd.com/",
+    "start_date": "2026/9/13",
+    "end_date": "2026/10/13"
+  }, 
+   {
+    "site": "metatft.gg",
+    "price": "60$",
+    "anchor": "123b",
+    "link": "https://123bvnd.com/",
+    "start_date": "2026/9/18",
+    "end_date": "2026/10/18"
+  }, 
+   {
+    "site": "soicau247tv.tv",
+    "price": "150$",
+    "anchor": "123b",
+    "link": "https://123bvnd.com/",
+    "start_date": "2026/9/15",
+    "end_date": "2026/10/15"
+  }, 
+   {
+    "site": "xsmb.me",
+    "price": "150$",
+    "anchor": "123b",
+    "link": "https://123bvnd.com/",
+    "start_date": "2026/9/26",
+    "end_date": "2026/10/26"
+  },
+   {
+    "site": "xoso360.com",
+    "price": "100$",
+    "anchor": "https://123bvnd.com/",
+    "link": "https://123bvnd.com/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  }, 
+   {
+    "site": "soicau247tv.tv",
+    "price": "150$",
+    "anchor": "https://hubet.voto/",
+    "link": "https://hubet.voto/",
+    "start_date": "2026/10/6",
+    "end_date": "2026/11/6"
+  }, 
+  {
+    "site": "vnbaolut.net",
     "price": "100$",
     "anchor": "hubet",
     "link": "https://hubet.voto/",
-    "start_date": "2026-10-01",
-    "end_date": "2026-11-01"
+    "start_date": "2026/10/6",
+    "end_date": "2026/11/6"
+  },  
+  {
+    "site": "nuoilo.com",
+    "price": "1.350.000",
+    "anchor": "hubet",
+    "link": "https://hubet.voto/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  }, 
+   {
+    "site": "nuoilo.com",
+    "price": "1.350.000",
+    "anchor": "hubet",
+    "link": "https://hubet.voto/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  },  
+  {
+    "site": "soicau247tv.tv",
+    "price": "150$",
+    "anchor": "h19",
+    "link": "https://h19.store/",
+    "start_date": "2026/10/7",
+    "end_date": "2026/11/7"
+  }, 
+  {
+    "site": "linkneverdie.net",
+    "price": "90$",
+    "anchor": "h19",
+    "link": "https://h19.store/",
+    "start_date": "2026/10/7",
+    "end_date": "2026/11/7"
+  }, 
+  {
+    "site": "metatft.gg",
+    "price": "90$",
+    "anchor": "h19",
+    "link": "https://h19.store/",
+    "start_date": "2026/9/22",
+    "end_date": "2026/10/22"
+  }, 
+   {
+    "site": "metatft.gg",
+    "price": "90$",
+    "anchor": "h19",
+    "link": "https://h19.store/",
+    "start_date": "2026/9/22",
+    "end_date": "2026/10/22"
+  },  
+   {
+    "site": "linkneverdie.net",
+    "price": "90$",
+    "anchor": "x88",
+    "link": "https://x88.boo/",
+    "start_date": "2026/10/3",
+    "end_date": "2026/11/3"
+  }, 
+   {
+    "site": "xosobamien.vn",
+    "price": "147$",
+    "anchor": "x88",
+    "link": "https://x88.boo/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  },
+    {
+    "site": "metatft.gg",
+    "price": "60$",
+    "anchor": "x88",
+    "link": "https://x88.boo/",
+    "start_date": "2026/10/8",
+    "end_date": "2026/11/8"
+  },
+    {
+    "site": "xsmb.me",
+    "price": "150$",
+    "anchor": "x88",
+    "link": "https://x88.boo/",
+    "start_date": "2026/9/28",
+    "end_date": "2026/10/28"
+  }, 
+  {
+    "site": "https://vnbaolut.net/",
+    "price": "150$",
+    "anchor": "88bet",
+    "link": "https://88bet.casa/",
+    "start_date": "2026/9/15",
+    "end_date": "2026/10/15"
   },
   {
-    "site": "https://example2.com/",
-    "price": "50$",
-    "anchor": "nha cai",
-    "link": "https://hubet.voto/",
-    "start_date": "2026-09-15",
-    "end_date": "2026-10-9"
+    "site": "linkneverdie.net",
+    "price": "90$",
+    "anchor": "789bet",
+    "link": "https://789betlove.com/",
+    "start_date": "2026/9/23",
+    "end_date": "2026/10/23"
   },
   {
-    "site": "https://nguvll2.com/",
-    "price": "50$",
-    "anchor": "nha cai",
-    "link": "https://hubet.voto/",
-    "start_date": "2026-09-15",
-    "end_date": "2026-10-7"
-  }
+    "site": "vanvn.net",
+    "price": "135$",
+    "anchor": "https://789betlove.com/",
+    "link": "https://789betlove.com/",
+    "start_date": "2026/9/23",
+    "end_date": "2026/10/23"
+  },
+   {
+    "site": "nuoilo.com",
+    "price": "1.350.000",
+    "anchor": "789bet",
+    "link": "https://789betlove.com/",
+    "start_date": "2026/9/23",
+    "end_date": "2026/10/23"
+  }, 
+   {
+    "site": "xosothantai.mobi",
+    "price": "200$",
+    "anchor": "789bet",
+    "link": "https://789betlove.com/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  },
+   {
+    "site": "xsmb.me",
+    "price": "150$",
+    "anchor": "789bet",
+    "link": "https://789betlove.com/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  }, 
+   {
+    "site": "soicau247tv.tv",
+    "price": "150$",
+    "anchor": "trang chủ 789bet ",
+    "link": "https://789betlove.com/",
+    "start_date": "2026/9/28",
+    "end_date": "2026/10/28"
+  }, 
+   {
+    "site": "vnbaolut.net",
+    "price": "150$",
+    "anchor": "789bet",
+    "link": "https://789betlove.com/",
+    "start_date": "2026/9/28",
+    "end_date": "2026/10/28"
+  }, 
+     {
+    "site": "linkneverdie.net",
+    "price": "90$",
+    "anchor": "68 game bài",
+    "link": "https://68gamebai.co.im/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  },
+  {
+    "site": "xsmb.me",
+    "price": "150$",
+    "anchor": "68 game bài",
+    "link": "https://68gamebai.co.im/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  },
+  {
+    "site": "ggmeo.com",
+    "price": "85$",
+    "anchor": "68 game bài",
+    "link": "https://68gamebai.co.im/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  },
+   {
+    "site": "nuoilo.com",
+    "price": "1.350.000",
+    "anchor": "68 game bài",
+    "link": "https://68gamebai.co.im/",
+    "start_date": "2026/9/27",
+    "end_date": "2026/10/27"
+  },
+   {
+    "site": "linkneverdie.net",
+    "price": "90$",
+    "anchor": "88vbet",
+    "link": "https://88vbet.boo/",
+    "start_date": "2026/9/28",
+    "end_date": "2026/10/28"
+  },
+   {
+    "site": "xsmb.me",
+    "price": "150$",
+    "anchor": "88vbet",
+    "link": "https://88vbet.boo/",
+    "start_date": "2026/9/28",
+    "end_date": "2026/10/28"
+  },  
+   {
+    "site": "metatft.gg",
+    "price": "60$",
+    "anchor": "88vbet",
+    "link": "https://88vbet.boo/",
+    "start_date": "2026/10/7",
+    "end_date": "2026/11/7"
+  },  
 ]
